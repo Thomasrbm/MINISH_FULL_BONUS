@@ -49,6 +49,7 @@ int	count_backslash(char *s, int pos)
 	return (cnt);
 }
 
+// itoa de l exitcode 
 void	handle_dollar_question(int *i, char **w, t_shell *shell)
 {
 	char	*tmp;
