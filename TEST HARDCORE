@@ -1,0 +1,687 @@
+
+
+
+echo $"$USER"$'$USER'$"$USER$"$"$USER"$'$USER'$"$"$USER"$'$"$USER"$'$USER'$"$USER$"$USER'$"$USER$"$USER$"$"$USER"$'$USER'$"$USER$"
+
+
+frozyx$USERfrozyx$frozyx$USER$frozyx$'$frozyx$'frozyx'$frozyxfrozyx'$frozyxfrozyx$frozyx$USERfrozyx$
+
+frozyx$USERfrozyx$frozyx$USER$frozyx$'$frozyx$'frozyx'$frozyxfrozyx'$frozyxfrozyx$frozyx$USERfrozyx$
+
+
+
+
+
+
+
+
+
+
+
+
+====================================================================================================================
+====================================================================================================================
+
+ echo $"$USER"$'$USER'$"$US$SE"'USR'"$USR$'"USER"'$SER'$UER$"UR'$"$USER$"$USER$"$"$USESER'$"$USER$"
+
+
+frozyx$USERUSR$'USER''$UR$"$USER$"$USER$"$"$USESERfrozyx$
+
+frozyx$USERUSR$'USER''$UR$"$USER$"$USER$"$"$USESERfrozyx$
+
+frozyx$USERUSR$'USER''$UR$"$USER$"$USER$"$"$USESERfrozyx$
+
+
+
+
+
+====================================================================================================================
+====================================================================================================================
+
+
+
+
+
+echo _frozyx$USERUSR$'USER''$UR$"$USER$"$USER$"$"$USESER_frozyx$USERUSR$'USER''$UR$"$USER$"$USER$"$"$USESERfrozyx$frozyx$
+
+
+_frozyxUSER$UR$"$USER$"$USER$"$"$USESER_frozyx$USERUSR$USERfrozyx$frozyx$$
+
+
+
+
+
+
+
+====================================================================================================================
+====================================================================================================================
+
+
+
+
+
+
+
+
+
+ echo $"$USER"$'$USER'$"$US$SE"'USR'$UER$"UR'$"$USER$"$SER'$"$USER$"
+
+unclosed
+
+
+
+
+
+
+
+
+
+
+
+====================================================================================================================
+====================================================================================================================
+
+
+
+ echo $"$USER"$'$USER'$"$US$SE"'USR'$UER$"UR'$"$USER$"$SER'$"$USER$"$"$USER"$'$USER'$"$US$SE"'USR'$UER$"UR'$"$USER$"$SER'$"$USER$"
+
+frozyx$USERUSRUR'$frozyx'$frozyx$frozyx$'frozyx'$'USR'$UR$"$USER$"$SERfrozyx$
+
+frozyx$USERUSRUR'$frozyx'$frozyx$frozyx$'frozyx'$'USR'$UR$"$USER$"$SERfrozyx$
+
+
+
+
+
+
+
+
+====================================================================================================================
+====================================================================================================================
+
+
+ echo $"$USERUSER$"$SER'$"$USER$"$"$USR'$"$US$SE"'USR'$UER$"UR'$"$USER$""$SER'$"$USER$
+
+
+Unclosed
+
+
+
+
+
+
+
+
+====================================================================================================================
+====================================================================================================================
+
+
+
+ echo $"$USERUSER$"$SER'$"$USER$"$"$USR'$"$US$SE"'USR'$UER$"UR'$"$USER$""$SER'$"$U$"$USERUSER$"$SER'$"$USER$"$"$USR'$"$US$SE"'USR'$UER$"UR'$"$USER$""$SER'$"$USER$
+
+
+
+Unclosed
+
+
+
+
+
+
+
+
+
+
+
+
+
+====================================================================================================================
+====================================================================================================================
+
+
+
+
+
+
+echo $"$USER"$'$USER'$"$USER$"$"$USER"$'$USER'$"$"$USER"$'$"$USER"$'$USER'$"$USER$"$USER'$"$USER$"$USER$"$"$USER"$'$USER'$"$USER$"
+
+
+frozyx$USERfrozyx$frozyx$USER$frozyx$'$frozyx$'frozyx'$frozyxfrozyx'$frozyxfrozyx$frozyx$USERfrozyx$
+
+
+
+
+
+
+
+
+
+
+
+
+echo $"$USER"$'$USER'$"$USER$"$"$USER"$'$USER'$"$USER$"$"$USER"$'$USER'$"$USER$"
+
+
+
+frozyx$USERfrozyx$frozyx$USERfrozyx$frozyx$USERfrozyx$
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo $"A-$USER-B"$'$USER'$"C-$USER-D"$'$USER'$"E-$USER-F"
+
+
+
+
+
+A-frozyx-B$USERC-frozyx-D$USERE-frozyx-F
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo $"[$USER]"$'$USER'$"{"$USER$"}"
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo $"User: $USER"$'$USER'$" - End:$USER$" 
+
+
+
+
+
+
+User: frozyx$USER - End:frozyx$
+
+
+
+
+
+
+
+
+
+
+echo $"$USER"$'$USER'$"$USER$"$"$USER"$'$USER'$"$USER$"$'$USER"$'$USER'
+
+
+
+Unclosed
+
+
+
+
+
+
+
+
+
+
+
+echo $"Start:$USER"$'$USER'$":Middle:$USER$"$"$USER"$'$USER'$":End"
+
+
+
+
+Start:frozyx$USER:Middle:frozyx$frozyx$USER:End
+
+
+
+
+
+
+
+
+
+
+
+
+echo $"$USER"$'$USER'$"$USER$"$"$USER"$'$USER'$"$USER$"$USER"
+
+
+Unclosed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo $"Prefix-$USER-"$'$USER'$"-Suffix-$USER$"
+
+
+Prefix-frozyx-$USER-Suffix-frozyx$
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo $"$USER"$'$USER'$"$USER$"$"$USER"$'
+
+
+
+
+
+Unclosed
+
+
+
+
+
+
+
+
+
+
+
+
+echo $"Hello, $USER!"$'$USER'$"$USER$"
+
+
+
+Hello, frozyx!$USERfrozyx$
+
+
+
+
+
+
+
+
+
+
+
+=========================================
+
+
+
+""'"'''''"'"'''''"'''''"'  $PATHD$USER$? ""'"'''''"'"'''''"'''''"'
+
+
+'"nested \'quotes\' with \\backslashes\\"'
+
+
+'C:\Program Files\' 
+
+
+
+
+'"\\\\\\"'
+
+'mix of " and \ and $USER'
+
+
+0"\"$USER\""                 
+
+
+echo "$""USER"
+ 
+ 
+ 
+ 
+ 
+ 
+ echo $'$$USER\$HOME'                            
+ 	
+$$USER\$HOME
+
+
+ 
+ 
+ 
+
+moi :
+
+ echo "$"$"$USER$"                
+
+
+$throbert$
+
+
+
+
+
+echo $'\\$USER'		
+
+
+
+\$USER
+
+
+
+
+
+
+echo "$USER"$'\n'"end"
+
+
+
+
+throbert
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo "$USER"$'\t'"end"
+
+
+
+
+
+
+throbert	end
+
+
+
+
+
+
+
+
+
+
+
+echo "${USER}_test"
+
+
+
+
+
+
+..  
+
+
+.
+
+
+""
+''
+
+
+
+
+"nested \"quotes\" with \\backslashes\\"
+
+'"nested \'quotes\' with \\backslashes\\"'
+
+
+echo 'mix of " and \ and $USER' 0"\"$USER\"\"" "'\"$USER\"'" "\"'$PATH'\"" "\"'$PATH'\"\"'$PATH'\"" \\ "\"$USER\"" "\\\\" '\\\\' "C:\\Program Files\\" "mix of \" and \\ and $USER" "quote: \" inside" 'mix of " and \ and $USER' '"\\\\\\"' "mix of \" and \\ and $USER" "quote: \" inside" 'mix of " and \ and $USER' '"\\\\\\"'
+
+
+
+===>
+mix of " and \ and $USER 0"frozyx"" '"frozyx"' "'/home/frozyx/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Windows/System32/HWAudioDriverLibs:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/c/Users/Administrator/AppData/Local/Microsoft/WindowsApps:/mnt/c/Windows/system32/config/systemprofile/AppData/Local/Microsoft/WindowsApps:/mnt/c/windows/system32/HWAudioDriver/:/mnt/c/Users/Thoma/AppData/Local/Microsoft/WindowsApps:/mnt/d/PyCharm 2023.2.3/bin:/mnt/c/Users/Thoma/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/Thoma/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand:/snap/bin'" "'/home/frozyx/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Windows/System32/HWAudioDriverLibs:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/c/Users/Administrator/AppData/Local/Microsoft/WindowsApps:/mnt/c/Windows/system32/config/systemprofile/AppData/Local/Microsoft/WindowsApps:/mnt/c/windows/system32/HWAudioDriver/:/mnt/c/Users/Thoma/AppData/Local/Microsoft/WindowsApps:/mnt/d/PyCharm 2023.2.3/bin:/mnt/c/Users/Thoma/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/Thoma/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand:/snap/bin'""'/home/frozyx/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Windows/System32/HWAudioDriverLibs:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/c/Users/Administrator/AppData/Local/Microsoft/WindowsApps:/mnt/c/Windows/system32/config/systemprofile/AppData/Local/Microsoft/WindowsApps:/mnt/c/windows/system32/HWAudioDriver/:/mnt/c/Users/Thoma/AppData/Local/Microsoft/WindowsApps:/mnt/d/PyCharm 2023.2.3/bin:/mnt/c/Users/Thoma/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/Thoma/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand:/snap/bin'" \ "frozyx" \\ \\\\ C:\Program Files\ mix of " and \ and frozyx quote: " inside mix of " and \ and $USER "\\\\\\" mix of " and \ and frozyx quote: " inside mix of " and \ and $USER "\\\\\\"
+
+
+
+echo "$USER\test" "line1\nline2" "mix of \" and \\ and $USER" "escaped \t tab" "\\\"" \\ '$USER\test' "line1\nline2" "hello\\world" 'hello\\world' "backslash at end\\" 'backslash at end\\' "multiple\\\\backslashes" $USER\test line1\nline2 hello\world hello\\world backslash at end\ backslash at end\\ multiple\\backslashes "\\$USER" "$PATH\\" "\\\\$PATH" '\\\\$PATH' "this is a \\ test" 'this is a \\ test' "nested \"quotes\" with \\backslashes\\" "mix of \" and \\ and $USER" 'mix of " and \ and $USER' "escaped \n newline" "escaped \t tab" "escaped \\n literal" "\\\"" '"\\\\\\"' "\\\\" "\\$USER" "$USER\\$PATH" "\"\\$USER\\\"" '\\$USER\\' "backslash \\ at start"
+
+===>
+frozyx\test line1\nline2 mix of " and \ and frozyx escaped \t tab \" \ $USER\test line1\nline2 hello\world hello\\world backslash at end\ backslash at end\\ multiple\\backslashes frozyxtest line1nline2 helloworld hello\world backslash at end backslash at end\ multiple\backslashes \frozyx /home/frozyx/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Windows/System32/HWAudioDriverLibs:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/c/Users/Administrator/AppData/Local/Microsoft/WindowsApps:/mnt/c/Windows/system32/config/systemprofile/AppData/Local/Microsoft/WindowsApps:/mnt/c/windows/system32/HWAudioDriver/:/mnt/c/Users/Thoma/AppData/Local/Microsoft/WindowsApps:/mnt/d/PyCharm 2023.2.3/bin:/mnt/c/Users/Thoma/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/Thoma/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand:/snap/bin\ \\/home/frozyx/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Windows/System32/HWAudioDriverLibs:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/c/Users/Administrator/AppData/Local/Microsoft/WindowsApps:/mnt/c/Windows/system32/config/systemprofile/AppData/Local/Microsoft/WindowsApps:/mnt/c/windows/system32/HWAudioDriver/:/mnt/c/Users/Thoma/AppData/Local/Microsoft/WindowsApps:/mnt/d/PyCharm 2023.2.3/bin:/mnt/c/Users/Thoma/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/Thoma/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand:/snap/bin \\\\$PATH this is a \ test this is a \\ test nested "quotes" with \backslashes\ mix of " and \ and frozyx mix of " and \ and $USER escaped \n newline escaped \t tab escaped \n literal \" "\\\\\\" \\ \frozyx frozyx\/home/frozyx/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Windows/System32/HWAudioDriverLibs:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/c/Users/Administrator/AppData/Local/Microsoft/WindowsApps:/mnt/c/Windows/system32/config/systemprofile/AppData/Local/Microsoft/WindowsApps:/mnt/c/windows/system32/HWAudioDriver/:/mnt/c/Users/Thoma/AppData/Local/Microsoft/WindowsApps:/mnt/d/PyCharm 2023.2.3/bin:/mnt/c/Users/Thoma/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/Thoma/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand:/snap/bin "\frozyx\" \\$USER\\ backslash \ at start
+
+
+
+
+
+
+
+ '"'"'"
+ "'"'"'
+
+'""'"''"
+
+
+
+
+
+"quote: \" inside"
+'quote: \' inside'
+
+
+
+
+
+"backslash \\ at end\\"
+"complex: \\\\ '$USER' \"\\$PATH\""
+
+
+
+
+
+
+
+
+
+// 11
+
+""'$PATH'""
+
+
+
+
+
+
+
+
+
+
+// 15
+// ==============
+
+
+
+ ""'$PATH '""
+
+
+
+
+
+
+
+
+
+
+
+
+// 18 '"'""''"""'''""''"'         $PATH$USER$? '"'""''"""'''""''"'
+
+
+
+
+
+
+
+
+
+// 19 ""'"'''''"'"'''''"'''''"' D ""'"'''''"'"'''''"'''''"'
+
+
+
+
+
+
+
+
+// 20 ""'"'''''"'"'''''"'''''"'  $PATHD$USER$? ""'"'''''"'"'''''"'''''"'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+backslash
+
+echo $'$USER'$"$USER"$$  
+
+
+
+"line1\nline2"
+
+"complex: \\\\ '$USER' \"\\$PATH\""
+
+0"\"$USER\""         
+
+ echo $'$$USER\$HOME'    
+
+
+
+
+
+
+
+
+
+ backtick
+
+
+ 
+
+
+
+
+ echo ``  "``""        
+
+				 
+ echo '``'	
+
+ echo hey list :`                 ` d     
+ 
+ ``ls 								 
+ `ls									 	 
+
+
+ echo \\`asdad            
+
+ echo \`asdad  
+
+
+
+ "``"   
+ '``'			 
+
+ echo `` 
+
+  echo "``"  
+ 
+
+
+ `` 
+
+
+
+
+ '`````' 
+
+
+
+
+ 
+echo $USER\test
+
+echo $USER\test line1\nline2 hello\world hello\\world backslash at end\ backslash at end\\ multiple\\backslashes
+
+
+frozyxtest line1nline2 helloworld hello\world backslash at end backslash at end\ multiple\backslashes
+
+
+
+
+
+
+echo $"It\"s a test" 
+
+echo $"It\'s a test"
+
+
+echo $'It\'s a test'
+
+echo $'It\"s a test'
+
+echo $It\\s a test
+
+
+
+
+'"nested \'quotes\' with \\backslashes\\"'
+
+'C:\Program Files\' 
