@@ -23,6 +23,7 @@ static char	*extract_var_name(char *in, int *i, int start)
 	return (var_name);
 }
 
+// pareil que dollar simple on va extract val de l env
 void	handle_dollar_braces(char *in, int *i, char **w, t_shell *shell)
 {
 	int		start;
