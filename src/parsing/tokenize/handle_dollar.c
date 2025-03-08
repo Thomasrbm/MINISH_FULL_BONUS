@@ -12,6 +12,8 @@
 
 #include "../../minishell.h"
 
+// chope la valeur a expand
+// va la chercher dans l env et l append
 static void	handle_dollar_var_no_braces(char *in,
 		int *i, char **w, t_shell *shell)
 {
@@ -78,6 +80,8 @@ int	handle_dollar_literal(char *in, int *i, char **w, t_shell *shell)
 	return (0);
 }
 
+// si rien apres ou espace print un dollar
+// si ni un char ni un ? ni nombre ni _ appen just dollar
 void	handle_dollar(char *in, int *i, char **w, t_shell *shell)
 {
 	char	next;
